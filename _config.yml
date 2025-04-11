@@ -1,0 +1,36 @@
+# Site settings
+title: cuicui site
+author: cuicui
+author_avatar: /images/header.jpg
+email: alias@domain.tld
+description: 峣峣者易折
+#url: "https://dongyadoit.com"
+#domain: "http://dongyadoit.com"
+#github_username: dongyado
+#github_site_repo: dongyado/dongyado.github.io
+#disqus: monsterslayer
+
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    syntax_highlighter: rouge
+    extensions: ["fenced_code_blocks",  "tables", "smart"]
+
+#    extensions: ["fenced_code_blocks", "autolink", "tables", "smart"]
+
+sass:
+    style: :compressed
+    sass_dir: _sass
+
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+
+# path
+categories_path: categories/
+tags_path: tags/
+
+
+gems:
+  - jekyll-sitemap

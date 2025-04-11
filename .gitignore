@@ -1,0 +1,10 @@
+.sass-cache
+*~
+*.swp
+.idea
+.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
