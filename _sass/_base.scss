@@ -5,8 +5,9 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input
 table{border-collapse:collapse;border-spacing:0;}
 fieldset,img{border:0;}
 address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
-// li{list-style:decimal;}
-ol{padding-left: 20px;}
+ol li{
+    list-style-type:decimal;
+    list-style-position:inside;}
 caption,th{text-align:left;}
 h1,h2,h3,h4,h5,h6{font-weight:bold;}
 q:before,q:after{content:'';}
