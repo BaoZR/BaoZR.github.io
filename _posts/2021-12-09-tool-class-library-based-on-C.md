@@ -12,7 +12,7 @@ tags: [c,tool]
 #### **函数介绍：**
 
 |函数名     | 介绍|
-|-------- | :-----: |
+|-------- | ----- |
 |write_data_hex| 向文件写指定大小的数据|
 |read_data_hex|  从文件读指定大小的数据|
 |list_matched_filename_app  | 枚举相对app路径下匹配到的文件名|
