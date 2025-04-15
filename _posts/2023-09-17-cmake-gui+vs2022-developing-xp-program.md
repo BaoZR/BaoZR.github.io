@@ -6,6 +6,8 @@ categories:
 - c/c++
 tags: [cmake,xp]
 ---
-
-
+下载必备的工具链
+![](/images/post/cmake-gui+vs2022-developing-xp-program-1.png)
+在cmake-gui输入v141_xp即可
+![](/images/post/cmake-gui+vs2022-developing-xp-program-2.png)
 
