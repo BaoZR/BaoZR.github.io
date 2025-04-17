@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  工控系统前端设计
+title:  关于工控系统前端题目的解答
 date: 2025-04-17
 categories:
 - python
