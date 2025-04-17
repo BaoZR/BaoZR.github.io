@@ -39,7 +39,7 @@ tags: [pyqt,Graphics view]
 
 **实现效果**
 
-可以看到修改风机转速后，风速检测值的变化
+可以看到修改风机转速后，风速检测值的变化。各种自定义item也都有属性可以交互。
 ![](/images/post/industrial-front-end/industrial-front-end-2.gif)
 
 服务端上设备编号是固定的，根据题目是 
